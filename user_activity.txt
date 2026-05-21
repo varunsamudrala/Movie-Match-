@@ -1,0 +1,13 @@
+User: new, Genre Searched: Comedy            
+User: new, Genre Searched: Action, Drama            
+User: crazy, Genre Searched: Action, Drama            
+User: crazy, Genre Searched: Action, Sci-Fi            
+User: crazy, Genre Searched: Action, Drama            
+User: crazy, Genre Searched: Action, Drama            
+User: crazy, Genre Searched: Action, Fantasy            
+User: crazy, Genre Searched: Action, Sci-Fi            
+User: crazy1, Genre Searched: Action, Crime            
+          
+crazy1,Comedy            
+crazy1,Family            
+crazy1,Action            
